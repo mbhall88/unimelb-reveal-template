@@ -12,7 +12,7 @@ and [colour palette][palette] guidelines of the university.
 ## Install
 
 1. Install [Node.js][node]
-2. Click **Use this template** and follow the prompts to create a repository for your slide deck.
+2. Click [**Use this template**](https://github.com/mbhall88/unimelb-reveal-template/generate) and follow the prompts to create a repository for your slide deck.
 3. Clone your new repository locally
 4. From inside the project root directory, run `npm install`
 5. Serve the slides locally with `npm start` and navigate to <http://localhost:8000/> in your browser
