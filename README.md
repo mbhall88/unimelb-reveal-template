@@ -12,16 +12,16 @@ and [colour palette][palette] guidelines of the university.
 ## Install
 
 1. Install [Node.js][node]
-2. Click [**Use this template**](https://github.com/mbhall88/unimelb-reveal-template/generate) and follow the prompts to create a repository for your slide deck.
+2. Click [**Use this template**](https://github.com/mbhall88/unimelb-reveal-template/generate) and follow the prompts to create a repository for your slide deck
 3. Clone your new repository locally
 4. From inside the project root directory, run `npm install`
-5. Serve the slides locally with `npm start` and navigate to <http://localhost:8000/> in your browser
+5. Serve the slides locally with `npm start` and navigate to <http://localhost:8000/> in your browser. This will reload the presentation anytime you make a change to it
 6. Make your slides!
 
 ## Customise
 
 For customisation topics not addressed below, please first check the [reveal.js documentation][reveal-docs]. If your question is not 
-covered there, then [raise and issue](https://github.com/mbhall88/unimelb-reveal-template/issues).
+covered there, then [raise an issue](https://github.com/mbhall88/unimelb-reveal-template/issues).
 
 ### Colours
 
@@ -32,7 +32,7 @@ any new ones.
 ### Logo
 
 All slides have a UoM logo in the top left corner. If you want to add additional logos, an example can be found 
-in `index.html` - in the section commented as LOGO. You will see another `<img>` tag that has been commented out 
+in `index.html` - in the commented logos section. You will see an `<img>` tag that has been commented out 
 which provides a [Doherty Institute][doherty] logo. If you're at the Doherty Institute, then simply uncomment the 
 line. If you want to add a logo for another entity/organisation, you can copy the same process as was used for the 
 UoM and Doherty Institute logos.
@@ -43,7 +43,7 @@ positioning section). Change the `bottom`, `left` etc. fields to place your logo
 ### Border
 
 You can change the width and colour of the border(s) in `css/theme/source/uom.scss`. By default, this template only has 
-a left border in UoM blue. To add other borders uncomment the relevant `<div>` tags in `index.html`.
+a left border in UoM blue. To add other borders uncomment the relevant `<div>` tags in the border section in `index.html`.
 
 
 [reveal]: https://github.com/hakimel/reveal.js/
