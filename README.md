@@ -7,6 +7,7 @@ and [colour palette][palette] guidelines of the university.
 2. 📚 [Read the reveal.js documentation](https://revealjs.com/markup/)
 3. 🚀 [Install](#install)
 4. 💅 [Customise](#customise)
+5. 🍽️ [Serve](#serve)
 
 
 ## Install
@@ -45,6 +46,11 @@ positioning section). Change the `bottom`, `left` etc. fields to place your logo
 You can change the width and colour of the border(s) in `css/theme/source/uom.scss`. By default, this template only has 
 a left border in UoM blue. To add other borders uncomment the relevant `<div>` tags in the border section in `index.html`.
 
+## Serve
+
+By default, the main branch of the template is `gh-pages`, as such, your slides should be automagically served. On the 
+GitHub repository, navigate to **Settings>Pages** and you should see a section saying "Your site is live at ....". 
+Whenever you push to the repository, the live slides should update in a minute or two.
 
 [reveal]: https://github.com/hakimel/reveal.js/
 [reveal-docs]: https://revealjs.com/
