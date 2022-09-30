@@ -17,7 +17,11 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Serif:wght@400;700&display=swap');
 
 
-// https://brandhub.unimelb.edu.au/guidelines/colour-palette
+
+/*********************************************
+ * UoM COLOUR PALETTE
+ https://brandhub.unimelb.edu.au/guidelines/colour-palette
+ *********************************************/
 $uomBlue: #094183;
 $white: #FFFFFF;
 $darkBlack: #000000;
@@ -141,6 +145,10 @@ $borderWidth: 100px;
     width: 15px;
   }
 }
+
+/*********************************************
+ * LOGO POSITIONING
+ *********************************************/
 
 #dohertyLogo {
   position: absolute;
