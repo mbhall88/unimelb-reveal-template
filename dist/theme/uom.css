@@ -379,7 +379,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   left: 0;
   top: 0;
   width: 100%;
-  height: 30px;
+  height: 50px;
 }
 
 @media (max-width: 840px) {
@@ -392,7 +392,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   top: auto;
   bottom: 0;
   width: 100%;
-  height: 30px;
+  height: 50px;
 }
 
 @media (max-width: 840px) {
@@ -403,7 +403,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
 .line.left {
   left: 0;
   top: 0;
-  width: 100px;
+  width: 50px;
   height: 200%;
 }
 
@@ -416,7 +416,7 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   left: auto;
   right: 0;
   top: 0;
-  width: 30px;
+  width: 50px;
   height: 200%;
 }
 
@@ -430,16 +430,16 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 #dohertyLogo {
   position: absolute;
-  bottom: 30px;
-  left: 110px;
+  left: 150px;
+  bottom: 55px;
   width: auto;
   height: 10%;
 }
 
 #uomLogo {
   position: absolute;
-  top: 30px;
-  left: 110px;
+  left: 2px;
+  bottom: 55px;
   width: auto;
   height: 10%;
 }
