@@ -32,7 +32,7 @@ any new ones.
 
 ### Logo
 
-All slides have a UoM logo in the top left corner. If you want to add additional logos, an example can be found 
+All slides have a UoM logo in the bottom left corner. If you want to add additional logos, an example can be found 
 in `index.html` - in the commented logos section. You will see an `<img>` tag that has been commented out 
 which provides a [Doherty Institute][doherty] logo. If you're at the Doherty Institute, then simply uncomment the 
 line. If you want to add a logo for another entity/organisation, you can copy the same process as was used for the 
@@ -43,8 +43,8 @@ positioning section). Change the `bottom`, `left` etc. fields to place your logo
 
 ### Border
 
-You can change the width and colour of the border(s) in `css/theme/source/uom.scss`. By default, this template only has 
-a left border in UoM blue. To add other borders uncomment the relevant `<div>` tags in the border section in `index.html`.
+You can change the width and colour of the border(s) in `css/theme/source/uom.scss`. By default, this template has 
+a top and bottom border in UoM blue. To add/remove borders, (un)comment the relevant `<div>` tags in the border section in `index.html`.
 
 ## Serve
 
