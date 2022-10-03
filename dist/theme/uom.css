@@ -430,10 +430,10 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
  *********************************************/
 #dohertyLogo {
   position: absolute;
-  left: 150px;
+  left: 100px;
   bottom: 55px;
   width: auto;
-  height: 10%;
+  height: 7%;
 }
 
 #uomLogo {
@@ -441,5 +441,5 @@ section.has-dark-background, section.has-dark-background h1, section.has-dark-ba
   left: 2px;
   bottom: 55px;
   width: auto;
-  height: 10%;
+  height: 7%;
 }
